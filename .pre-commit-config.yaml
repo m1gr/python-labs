@@ -7,8 +7,6 @@ repos:
         additional_dependencies:
           - types-requests
           - types-PyYAML
-          - types-requests
-          - types-PyYAML
           - pytest>=8.4.2
 
 
